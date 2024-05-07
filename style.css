@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    font-family: 'Silkscreen',cursive;
+    color: yellow;
+    background-image: url('./Images/Bg.gif');
+}
+
+#btn{
+    background-color: yellow;
+    color: #DD2C00;
+    height:50px;
+    width:120px;
+    border: 1px grey solid;
+    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+#name{
+    height: 30px;
+    width:300px;
+    border: 2px blue solid;
+    border-radius: 10px;
+    margin-top:20px;
+}
+
+#dis{
+    color: black;
+    text-align: center;
+    margin-left: 10%;
+    width: 80%;
+    font-family: 'Silkscreen',cursive;
+}
+
+#dis p{
+    margin-top: 10%;
+}
